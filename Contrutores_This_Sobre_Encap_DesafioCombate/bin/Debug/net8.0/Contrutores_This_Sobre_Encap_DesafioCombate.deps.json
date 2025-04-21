@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Contrutores_This_Sobre_Encap_DesafioCombate/1.0.0": {
+        "runtime": {
+          "Contrutores_This_Sobre_Encap_DesafioCombate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contrutores_This_Sobre_Encap_DesafioCombate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
