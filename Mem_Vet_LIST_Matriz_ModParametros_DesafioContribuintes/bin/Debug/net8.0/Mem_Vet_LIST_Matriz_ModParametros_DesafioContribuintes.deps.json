@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Mem_Vet_LIST_Matriz_ModParametros_DesafioContribuintes/1.0.0": {
+        "runtime": {
+          "Mem_Vet_LIST_Matriz_ModParametros_DesafioContribuintes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mem_Vet_LIST_Matriz_ModParametros_DesafioContribuintes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
